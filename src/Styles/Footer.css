@@ -1,11 +1,11 @@
 footer{
-    min-width: 100vw;
+    width: 100vw;
     height: 15vh;
     align-self:flex-end;
     display: flex;
     align-items: center;
     gap: 20px;
-    background-color: rgba(128, 95, 37, 0.);
+    background-color: rgba(128, 95, 37, 0.3);
 }
 
 .designBy{
@@ -13,11 +13,17 @@ footer{
     height: 13vh;
     position: relative;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .designBy p {
     color: antiquewhite;
     text-transform: uppercase;
+    font-size: 13px;
+    font-family: Adventuro;
+    letter-spacing: 3px;
 }
 
 .designBy p span{
@@ -33,6 +39,9 @@ footer{
     position: relative;
     overflow: hidden;
     color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footerText p span{
