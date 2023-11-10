@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wildlifedesign/static/css/main.b6e01d39.css",
+    "main.js": "/wildlifedesign/static/js/main.c5122881.js",
+    "static/js/787.fe040df0.chunk.js": "/wildlifedesign/static/js/787.fe040df0.chunk.js",
+    "static/media/TigerBg.png": "/wildlifedesign/static/media/TigerBg.a2007ca6a3fb83e5eef1.png",
+    "static/media/birdsBg.jpg": "/wildlifedesign/static/media/birdsBg.65b17bd1d9ca01a13842.jpg",
+    "static/media/giraffeBg.jpg": "/wildlifedesign/static/media/giraffeBg.fc8a1ba1511f5d3d800d.jpg",
+    "static/media/bgElephant.png": "/wildlifedesign/static/media/bgElephant.06deba505e076434f3b3.png",
+    "static/media/Adventuro.ttf": "/wildlifedesign/static/media/Adventuro.e23e6962615fb559c587.ttf",
+    "static/media/Adventure.otf": "/wildlifedesign/static/media/Adventure.9677cd8d8e48154cdfab.otf",
+    "index.html": "/wildlifedesign/index.html",
+    "main.b6e01d39.css.map": "/wildlifedesign/static/css/main.b6e01d39.css.map",
+    "main.c5122881.js.map": "/wildlifedesign/static/js/main.c5122881.js.map",
+    "787.fe040df0.chunk.js.map": "/wildlifedesign/static/js/787.fe040df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e01d39.css",
+    "static/js/main.c5122881.js"
+  ]
+}
