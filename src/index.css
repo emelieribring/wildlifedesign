@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Adventure'; /* Namnet du vill ge din font */
+  src: url('./Fonts/Adventure.otf') format('truetype'); /* Sökvägen till din fontfil */
+  font-weight: normal; /* Vikt och stilinställningar om tillämpligt */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Adventuro'; /* Namnet du vill ge din font */
+  src: url('./Fonts/Adventuro.ttf') format('truetype'); /* Sökvägen till din fontfil */
+  font-weight: normal; /* Vikt och stilinställningar om tillämpligt */
+  font-style: normal;
+}

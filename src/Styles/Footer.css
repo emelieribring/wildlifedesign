@@ -1,0 +1,61 @@
+footer{
+    min-width: 100vw;
+    height: 15vh;
+    align-self:flex-end;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: rgba(128, 95, 37, 0.);
+}
+
+.designBy{
+    width: 200px;
+    height: 13vh;
+    position: relative;
+    text-align: center;
+}
+
+.designBy p {
+    color: antiquewhite;
+    text-transform: uppercase;
+}
+
+.designBy p span{
+    color: antiquewhite;
+    text-transform:capitalize;
+    color: rgb(234, 244, 55);
+    font-size: 10px;
+}
+
+.footerText{
+    width: 400px;
+    height: 13vh;
+    position: relative;
+    overflow: hidden;
+    color: antiquewhite;
+}
+
+.footerText p span{
+    color: rgb(234, 244, 55);
+}
+
+.numbers{
+    width: 700px;
+    height: 13vh;
+    position: relative;
+    color: antiquewhite;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.numbers div{
+    width: 200px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.numbers div p span{
+    color: rgb(234, 244, 55);
+}
